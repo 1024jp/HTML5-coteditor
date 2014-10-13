@@ -2,7 +2,7 @@
 HTML5 syntax style for CotEditor
 =========================================
 
-[CotEditor][]'s syntax style files for HTML5.1 and Cache Manufest.
+[CotEditor][]'s syntax style files for HTML5.1 and Cache Manifest.
 
 In order to recognize the HTML structure easier, sectioning elements are by this version coloured in Numbers and heading elements are in Types.
 
