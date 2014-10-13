@@ -1,0 +1,41 @@
+extensions:
+- keyString: "appcache"
+filenames: []
+completionsArray:
+- keyString: "CACHE MANIFEST"
+- keyString: "CACHE:"
+- keyString: "FALLBACK:"
+- keyString: "NETWORK:"
+- keyString: "prefer-online"
+- keyString: "SETTINGS:"
+outlineMenuArray:
+- beginString: "^[\\t ]*CACHE:"
+- beginString: "^[\\t ]*FALLBACK:"
+- beginString: "^[\\t ]*NETWORK:"
+- beginString: "^[\\t ]*SETTINGS:"
+commandsArray:
+- beginString: "^[\\t ]*CACHE:"
+  regularExpression: true
+- beginString: "^[\\t ]*FALLBACK:"
+  regularExpression: true
+- beginString: "^[\\t ]*NETWORK:"
+  regularExpression: true
+- beginString: "^[\\t ]*SETTINGS:"
+  regularExpression: true
+metadata:
+  version: "2.0"
+  author: "1024jp"
+  license: "MIT Lisence"
+  lastModified: "2014-10-13"
+  distributionURL: "https://github.com/1024jp/HTML5-coteditor"
+charactersArray: []
+commentsArray: []
+valuesArray:
+- beginString: "prefer-online"
+numbersArray: []
+stringsArray: []
+keywordsArray:
+- beginString: "^[\\t ]*CACHE MANIFEST[\\t ]*$"
+  regularExpression: true
+commentDelimiters:
+  inlineDelimiter: "#"
