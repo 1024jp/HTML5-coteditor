@@ -6,7 +6,7 @@ HTML5 syntax style for CotEditor
 
 In order to recognize the HTML structure easier, sectioning elements are by this version coloured in Numbers and heading elements are in Types.
 
-[CotEditor]: http://coteditor.github.io/
+[CotEditor]: http://coteditor.com/
 
 
 Install
